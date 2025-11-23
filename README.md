@@ -86,8 +86,7 @@
 - **Clinic Registration:** Clinics can register via the app for bulk processing and dashboard monitoring.
 
 **For business inquiries:**  
-📧 colab@gmail.com  
-📞 +91 9877035742
+📧 pgautamlinked@gmail.com
 
 ---
 
