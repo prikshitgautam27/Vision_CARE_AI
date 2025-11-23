@@ -1,4 +1,6 @@
 # VISIONCARE AI
+( IDEA Credits : Prikshit Sharma)
+(Reports Credits: Kartik Bansal)
 
 **Tagline:** Early Detection, Clearer Tomorrow
 
