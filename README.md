@@ -74,9 +74,9 @@
 
 | Original Image | Preprocessed Image | Styled Report | Dashboard |
 |:--------------:|:-----------------:|:-------------:|:---------:|
-| ![Original Image](path/to/original_screenshot.png) | ![Preprocessed Image](path/to/preprocessed_screenshot.png) | ![Report Screenshot](path/to/report_screenshot.png) | ![Dashboard](path/to/dashboard_screenshot.png) |
+| ![Original Image]("C:\Users\priks\OneDrive\Pictures\Screenshots\Screenshot 2025-11-24 004128.png") | ![Preprocessed Image](path/to/preprocessed_screenshot.png) | ![Report Screenshot](path/to/report_screenshot.png) | ![Dashboard](path/to/dashboard_screenshot.png) |
 
-*Replace these with actual screenshots.*
+
 
 ---
 
@@ -92,7 +92,7 @@
 
 ## Developer Info
 
-Developed by **Prikshit Gautam & Team**  
+Developed by **._P_.Gautam & Team**  
 [Prikshit Gautam - LinkedIn](https://www.linkedin.com/in/prikshitgautam27/)
 
 ---
