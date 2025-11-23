@@ -86,7 +86,7 @@
 - **Clinic Registration:** Clinics can register via the app for bulk processing and dashboard monitoring.
 
 **For business inquiries:**  
-📧 pgautamlinked@gmail.com
+📧 pgautamlinkedin@gmail.com
 
 ---
 
