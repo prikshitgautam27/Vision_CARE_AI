@@ -73,8 +73,8 @@
 ## Screenshots / Demo
 
 | Original Image | Preprocessed Image | Styled Report | Dashboard |
-|:--------------:|:-----------------:|:-------------:|:---------:|
-| ![Original Image]("[C:\Users\priks\OneDrive\Pictures\Screenshots\Screenshot 2025-11-24 004128.png](https://github.com/prikshitgautam27/Vision_CARE_AI/blob/main/Screenshot%202025-11-24%20004128.png)") | ![Preprocessed Image](path/to/preprocessed_screenshot.png) | ![Report Screenshot](path/to/report_screenshot.png) | ![Dashboard](path/to/dashboard_screenshot.png) |
+|:--------------:|:------------------:|:-------------:|:---------:|
+| ![Original Image](Screenshot%202025-11-24%20004128.png) | ![Preprocessed Image](Screenshot%202025-11-24%20011208.png) | ![Report Screenshot](Screenshot%202025-11-24%20011215.png) | ![Dashboard](Screenshot%202025-11-24%20011220.png) |
 
 
 
