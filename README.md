@@ -46,7 +46,7 @@
    pip install -r requirements.txt
    ```
 
-3. **Model files:**
+3. **Model files: or Run Stacking-approach to obtain model files**
    Place the following files in the project directory:
    - `base_model_1.h5`
    - `base_model_2.h5`
