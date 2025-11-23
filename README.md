@@ -72,7 +72,7 @@
 
 ## Screenshots / Demo
 
-| Original Image | Preprocessed Image | Styled Report | Dashboard |
+| Dashboard | Styled Report | Preprocessed Image |Original Image  |
 |:--------------:|:------------------:|:-------------:|:---------:|
 | ![Original Image](Screenshot%202025-11-24%20004128.png) | ![Preprocessed Image](Screenshot%202025-11-24%20011208.png) | ![Report Screenshot](Screenshot%202025-11-24%20011215.png) | ![Dashboard](Screenshot%202025-11-24%20011220.png) |
 
